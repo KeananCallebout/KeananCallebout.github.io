@@ -1,10 +1,12 @@
-export default function Info() {
+export interface InfoProps {
+  title?: string
+}
+
+export default function Info({title}: InfoProps) {
   return (
     <section id="intro">
-      <a href="#" className="logo"><img src="images/logo.jpg" alt="" /></a>
       <header>
-        <h2>Future Imperfect</h2>
-        <p>Another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a></p>
+        <h2>{title ?? "Keanan Callebout"}</h2>
       </header>
     </section>
   );

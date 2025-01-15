@@ -1,10 +1,14 @@
 import Post from "./post";
+import { PostType } from "./PostTypes";
 
-export default function PostList() {
+export interface PostListProps {
+  posts: PostType[],
+}
+
+export default function PostList({ posts }: PostListProps) {
   return (
     <div id="main">
-      <Post />
-      <Post />
+      {posts.map(post => <Post post={post} key={post.id}/>)}
     </div>
   );
 }

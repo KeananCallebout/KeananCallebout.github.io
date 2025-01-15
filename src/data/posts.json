@@ -1,0 +1,48 @@
+{
+  "postsData": [
+    {
+      "id": "1",
+      "title": "Delaware B2B E-commerce Platform",
+      "keywords": "Delaware, B2B, Webshop, a Order Management System (OMS), Product Management System (PMS)",
+      "summary": "This school project for Delaware involved creating a Business-to-Business (B2B) e-commerce solution with three integrated components. The webshop frontpage was developed using Vite + React for the front-end and NestJS for the back-end, allowing businesses to browse products and place orders online. The Order Management System (OMS), built in Java with a JavaFX GUI, handles the processing, tracking, and management of these orders. Additionally, the Product Management System (PMS), also developed in Java with a JavaFX GUI, enables sellers to manage product details and inventory. All three components share a common database to ensure seamless integration and real-time synchronization. The project’s goal was to provide businesses with a streamlined platform to place orders through the webshop, process them efficiently in the OMS, and allow sellers to manage products through the PMS.",
+      "imageUrl": "src/images/SDP 2/webshop.png",
+      "imageSmallUrl": "src/images/SDP 2/logo.jpg",
+      "dateTime": "14-06-2023",
+      "date": "June 14, 2023",
+      "markdown": ""
+    },
+    {
+      "id": "4",
+      "title": "Rise",
+      "keywords": "Delaware, B2B, Webshop, a Order Management System (OMS), Product Management System (PMS)",
+      "summary": "This school project for Delaware involved creating a Business-to-Business (B2B) e-commerce solution with three integrated components. The webshop frontpage was developed using Vite + React for the front-end and NestJS for the back-end, allowing businesses to browse products and place orders online. The Order Management System (OMS), built in Java with a JavaFX GUI, handles the processing, tracking, and management of these orders. Additionally, the Product Management System (PMS), also developed in Java with a JavaFX GUI, enables sellers to manage product details and inventory. All three components share a common database to ensure seamless integration and real-time synchronization. The project’s goal was to provide businesses with a streamlined platform to place orders through the webshop, process them efficiently in the OMS, and allow sellers to manage products through the PMS.",
+      "imageUrl": "src/images/pic01.jpg",
+      "imageSmallUrl": "src/images/pic08.jpg",
+      "dateTime": "14-06-2023",
+      "date": "June 14, 2023",
+      "markdown": ""
+    },
+    {
+      "id": "2",
+      "title": "Devops",
+      "keywords": "Delaware, B2B, Webshop, a Order Management System (OMS), Product Management System (PMS)",
+      "summary": "This school project for Delaware involved creating a Business-to-Business (B2B) e-commerce solution with three integrated components. The webshop frontpage was developed using Vite + React for the front-end and NestJS for the back-end, allowing businesses to browse products and place orders online. The Order Management System (OMS), built in Java with a JavaFX GUI, handles the processing, tracking, and management of these orders. Additionally, the Product Management System (PMS), also developed in Java with a JavaFX GUI, enables sellers to manage product details and inventory. All three components share a common database to ensure seamless integration and real-time synchronization. The project’s goal was to provide businesses with a streamlined platform to place orders through the webshop, process them efficiently in the OMS, and allow sellers to manage products through the PMS.",
+      "imageUrl": "src/images/pic01.jpg",
+      "imageSmallUrl": "src/images/pic08.jpg",
+      "dateTime": "14-06-2023",
+      "date": "June 14, 2023",
+      "markdown": ""
+    },
+    {
+      "id": "3",
+      "title": "Frontend",
+      "keywords": "Delaware, B2B, Webshop, a Order Management System (OMS), Product Management System (PMS)",
+      "summary": "This school project for Delaware involved creating a Business-to-Business (B2B) e-commerce solution with three integrated components. The webshop frontpage was developed using Vite + React for the front-end and NestJS for the back-end, allowing businesses to browse products and place orders online. The Order Management System (OMS), built in Java with a JavaFX GUI, handles the processing, tracking, and management of these orders. Additionally, the Product Management System (PMS), also developed in Java with a JavaFX GUI, enables sellers to manage product details and inventory. All three components share a common database to ensure seamless integration and real-time synchronization. The project’s goal was to provide businesses with a streamlined platform to place orders through the webshop, process them efficiently in the OMS, and allow sellers to manage products through the PMS.",
+      "imageUrl": "src/images/pic01.jpg",
+      "imageSmallUrl": "src/images/pic08.jpg",
+      "dateTime": "14-06-2023",
+      "date": "June 14, 2023",
+      "markdown": ""
+    }
+  ]
+}

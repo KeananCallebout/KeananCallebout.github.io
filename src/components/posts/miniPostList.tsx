@@ -1,10 +1,15 @@
 import MiniPost from "./miniPost";
+import { PostType } from "./PostTypes";
 
-export default function MiniPostList() {
+export interface MiniPostListProps {
+  posts: PostType[],
+}
+
+export default function MiniPostList({posts}: MiniPostListProps) {
   return (
     <section>					
       <ul className="posts">
-        <MiniPost />
+        {posts.map(post => <MiniPost post={post} key={post.id}/>)}
       </ul>
     </section>
   );
