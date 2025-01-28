@@ -4,24 +4,24 @@ export interface PostProps {
 }
 
 export default function Post({ post }: PostProps) {
-  const href = `projects/${post.id}`;
+  const link = `projects/${post.id}`;
 
   return (
     <article className="post">
       <header>
         <div className="title">
-          <h2><a href="projects/1">{post.title}</a></h2>
+          <h2><a href={link}>{post.title}</a></h2>
           <p>{post.keywords}</p>
         </div>
         <div className="meta">
           <time className="published" dateTime={post.dateTime}>{post.date}</time>
         </div>
       </header>
-      <a href="projects/1" className="image featured"><img src={post.imageUrl} alt="" /></a>
+      <a href={link} className="image featured"><img src={post.imageUrl} alt={post.title} /></a>
       <p>{post.summary}</p>
       <footer>
         <ul className="actions">
-          <li><a href={href} className="button large">Continue Reading</a></li>
+          <li><a href={link} className="button large">Continue Reading</a></li>
         </ul>
       </footer>
     </article>
