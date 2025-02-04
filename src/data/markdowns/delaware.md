@@ -1,6 +1,6 @@
 # School Project: E-Commerce Solution for Delaware
 
-![image](/src/images/SDP%202/webshop.png)
+![homepage](/src/images/SDP%202/webshop.png)
 
 ## Building a B2B E-Commerce Solution for Delaware
 For Delaware, we developed a tailored Business-to-Business (B2B) e-commerce solution designed to streamline operations for both buyers and sellers. This project involved creating a webshop frontpage, an Order Management System (OMS), and a Product Management System (PMS) – all interconnected through a shared database.

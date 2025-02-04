@@ -18,7 +18,7 @@ export default function Project() {
       <Header />
       
       <div id="main">
-        <Markdown  remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} children={postHandler.getMarkdown(post.id)} />
+        <Markdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} children={postHandler.getMarkdown(post.id)} />
       </div>
       <div id="sidebar">
         <Info title={post.title}/>
