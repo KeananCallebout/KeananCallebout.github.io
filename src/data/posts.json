@@ -1,0 +1,48 @@
+{
+  "postsData": [
+    {
+      "id": "4",
+      "title": "Rise Project",
+      "keywords": "Fullstack .NET, Web application, Mobile Android application, Inventory Management System (IMS)",
+      "summary": "A school project for the nursing course of Hogent involved creating a web application and mobile application for an Inventory Management System (IMS). The web application was developed using .NET Core and Blazor, allowing users to manage inventory and view product information. The mobile application was developed using Jetpack Compose, enabling users to view inventory on the go and scan products for information. The project’s goal was to provide a easy and quick to use interface for users to manage inventory and products through the web and mobile applications. The web application and the mobile application communicates with the .NET server through a RESTful API, which accesses a common database to ensure real-time synchronization between the two applications.",
+      "imageUrl": "src/images/Rise/Products.png",
+      "imageSmallUrl": "src/images/Rise/hogent.png",
+      "dateTime": "27-09-2024",
+      "date": "September 27, 2024",
+      "markdown": ""
+    },
+    {
+      "id": "2",
+      "title": "Frontend",
+      "keywords": "Fullstack Typescript, Web application, School project",
+      "summary": "A school project for the classes Frontend and Backend development, the project required the creation of a web application using TypeScript and React. The application allows users to manage and group superheroes, built around public data about superheroes. The front-end was developed using TypeScript, React and Vite, while the back-end was implemented using TypeScript and Nestjs. The application’s data is stored in a PostgresSql database, which is accessed through a RESTful API. The front-end communicates with the back-end using Axios to fetch and display movie information.",
+      "imageUrl": "src/images/Frontend/Home.png",
+      "imageSmallUrl": "src/images/Rise/hogent.png",
+      "dateTime": "27-09-2024",
+      "date": "September 27, 2024",
+      "markdown": ""
+    },
+    {
+      "id": "3",
+      "title": "Devops Project",
+      "keywords": "Fullstack .NET, Web application, Mobile Android application, Order Management System (OMS)",
+      "summary": "A school project for SVK involved creating a web application and mobile application for an Order Management System (OMS). The web application was developed using .NET Core and Blazor, allowing users to manage orders and view insurance pictures. The mobile application was developed using Jetpack Compose, enabling users to view orders on the go and take pictures for insurance. The project’s goal was to provide a user-friendly interface for users to manage orders and pictures through the web and mobile applications. The web application and the mobile application communicates with the .NET server through a RESTful API, which accesses a common database to ensure real-time synchronization between the two applications.",
+      "imageUrl": "src/images/Devops/Dotnet 1.png",
+      "imageSmallUrl": "src/images/Devops/svk.png",
+      "dateTime": "25-09-2023",
+      "date": "September 25, 2023",
+      "markdown": ""
+    },
+    {
+      "id": "1",
+      "title": "Delaware B2B E-commerce Platform",
+      "keywords": "Delaware, B2B, Webshop, Order Management System (OMS), Product Management System (PMS)",
+      "summary": "A school project for Delaware involved creating a Business-to-Business (B2B) e-commerce solution with three integrated components. The webshop frontpage was developed using Vite + React for the front-end and NestJS for the back-end, allowing businesses to browse products and place orders online. The Order Management System (OMS), built in Java with a JavaFX GUI, handles the processing, tracking, and management of these orders. Additionally, the Product Management System (PMS), also developed in Java with a JavaFX GUI, enables sellers to manage product details and inventory. All three components share a common database to ensure seamless integration and real-time synchronization. The project’s goal was to provide businesses with a streamlined platform to place orders through the webshop, process them efficiently in the OMS, and allow sellers to manage products through the PMS.",
+      "imageUrl": "src/images/SDP 2/webshop.png",
+      "imageSmallUrl": "src/images/SDP 2/logo.jpg",
+      "dateTime": "14-06-2022",
+      "date": "June 14, 2022",
+      "markdown": ""
+    }
+  ]
+}
